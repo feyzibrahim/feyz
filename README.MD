@@ -4,7 +4,7 @@
 
 I am enthusiastic about Tech, AI, Programming, and I enjoy Cycling. I believe in the power of technology to make a positive impact on the world.
 
-- 💼 Currently working as a Intern at Brototype
+- 💼 Currently working as a Software Engineer at basys.ai
 - 🌱 Learning and exploring new technologies
 - 🎓 Graduated from LISSAH College, Kaithapoyil with a degree in BSC Computer Science.
 
